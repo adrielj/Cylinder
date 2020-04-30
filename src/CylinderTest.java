@@ -12,6 +12,7 @@ public class CylinderTest {
 		
 		
 		System.out.println(cylinder1.toString());
+		System.out.println();
 		System.out.println(cylinder2.toString());
 		
 	}

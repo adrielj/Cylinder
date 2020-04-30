@@ -81,6 +81,7 @@ public class Cylinder {
 		String cylinderStats = " Radius: " +radius+ "\n Height: " + height + "\n Base Diameter: " + radius * 2 + "\n Base Area:" + Math.PI * Math.pow(radius, 2)+ "\n Base Circumference: " +2 * radius * Math.PI+ "\n Surface Area: " +(2 * Math.PI * radius * height) + (2 * Math.PI * Math.pow(radius, 2))+ "\n Volume: " +Math.PI * Math.pow(radius, 2) * height;
 		return cylinderStats;
 		
+		
 	}
 	
 }
